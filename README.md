@@ -1,2 +1,2 @@
 # DataScienceRecap
-Application of dummy variables, alteration of columns via pandas, and some related basics of preprocessing data skills.
+Application of ETL via SSIS, alteration of columns dummy variables via pandas in Python, and some related basics of preprocessing data skills for csv and excel files.
