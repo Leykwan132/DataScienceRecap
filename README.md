@@ -1,8 +1,8 @@
 # DataScienceRecap
 ETL Sample Work 
 - Application of ETL via SSIS
-- Preprocessing excel files
-- Createa working table in SQL
+- Preprocessed excel files
+- Created working table in SQL
 
 Logistic Regression Work
 - Preprocessed csv data 
