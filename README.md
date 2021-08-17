@@ -1,4 +1,19 @@
 # DataScienceRecap
-Application of ETL via SSIS, alteration of columns dummy variables via pandas in Python, and some related basics of preprocessing data skills for csv and excel files.
+ETL Sample Work 
+- Application of ETL via SSIS
+- Preprocessing excel files
+- Createa working table in SQL
+
+Logistic Regression Work
+- Preprocessed csv data 
+- Created a Logistic Regression in Jupyter via pandas and sklearn package
+
+MNIST
+- MNIST Classification via TensorFlow
+
+TensorFlow ML Work
+- Preprocessed csv data (Audiobook data)
+- Created a model that predict if a customer will buy again.
+
 
 
